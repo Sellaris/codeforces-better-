@@ -1,6 +1,7 @@
 # codeforces-better-
 codeforces better！的脚本备份仓库
-'''
+
+```
 // ==UserScript==
 // @name         Codeforces Better!
 // @namespace    https://greasyfork.org/users/747162
@@ -17176,4 +17177,4 @@ if (document.readyState === "loading") {
     location.reload();
   }
 }
-'''
+```
